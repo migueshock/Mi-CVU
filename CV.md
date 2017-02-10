@@ -15,12 +15,12 @@
 #### Istituto Tecnologico de Mexicali 
 #### Carrera: Ing. Sistemas Computacionales
 
-#### 2009-2012 *Colegio De Bachilleres De Baja California Plantel Vasconselos*
-#### 2006-2009 *David Alfaro Siqueiros #3*
-#### 2000-2006 *Instituto Sor Juana Ines de la cruz - Acapulco de Juarez*
+#### - 2009-2012 *Colegio De Bachilleres De Baja California Plantel Vasconselos*
+#### - 2006-2009 *David Alfaro Siqueiros #3*
+#### - 2000-2006 *Instituto Sor Juana Ines de la cruz - Acapulco de Juarez*
 
 ## IDIOMAS 
-#### Ingles 70% Certificado en ** Harman Hall **
+#### Ingles 70% Certificado en **Harman Hall**
 
 
 ## EXPERIENCIA LABORAL
@@ -30,7 +30,10 @@
 #### Ubiación : Acapulco Gro. Av.Ruiz Cortinez
 #### Numero: 744-17-07-258
 
-## SOFTWARES
+
+## SOFTWARES QUE DOMINO
+
+![](https://github.com/migueshock/Mi-CVU/blob/master/lenguajes.jpg)
 
 
 

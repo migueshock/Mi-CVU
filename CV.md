@@ -11,6 +11,8 @@
 #### Email: miigueshock@hotmail.es
 
 ## ESCOLARIDAD
+![](https://github.com/migueshock/Mi-CVU/blob/master/line2.png)
+
 
 #### - 2009-2012 *Colegio De Bachilleres De Baja California Plantel Vasconselos*
 #### - 2006-2009 *David Alfaro Siqueiros #3*
@@ -21,11 +23,12 @@
 #### Carrera: Ing. Sistemas Computacionales
 
 ## IDIOMAS 
+![](https://github.com/migueshock/Mi-CVU/blob/master/line2.png)
+
 #### - Ingles 70% Certificado en **Harman Hall**
 
-![](https://github.com/migueshock/Mi-CVU/blob/master/line.jpg)
-
 ## EXPERIENCIA LABORAL
+![](https://github.com/migueshock/Mi-CVU/blob/master/line2.png)
 
 #### Empresa:Mundo Web 
 #### Puesto:Tecnico
@@ -34,6 +37,8 @@
 
 
 ## SOFTWARES QUE DOMINO
+![](https://github.com/migueshock/Mi-CVU/blob/master/line2.png)
+
 
 ![](https://github.com/migueshock/Mi-CVU/blob/master/lenguajes.jpg)
 

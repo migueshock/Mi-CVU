@@ -1,3 +1,3 @@
-# Mi CVU
+# Curriculum Vitae
 
-El alumno desarrollará un CVU utilizando Markdown.
+![](https://github.com/migueshock/Mi-CVU/blob/master/yo.jpg)
